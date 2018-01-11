@@ -35,7 +35,7 @@ spring.datasource.url = jdbc:mysql://localhost:3306/Your_DB_Name_here_?autoRecon
 
 give maven clean,maven install
 
-then go to Run -> Run as configurations -> give Goals as spring-boot:run then give run
+then go to Run -> maven build -> give Goals as spring-boot:run then give run
 
 
 The app will start running at <http://localhost:8080>.
