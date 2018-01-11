@@ -40,8 +40,6 @@ then go to Run -> Run as configurations -> give Goals as spring-boot:run then gi
 
 The app will start running at <http://localhost:8080>.
 
-Explore Rest APIs
-
 The app defines following CRUD APIs.
 
     GET /api/employees
@@ -56,6 +54,6 @@ The app defines following CRUD APIs.
 
 You can test them using postman or any other rest client.
 
-This Api is tested with POST MAN before integrating with angular.
+This Api is tested with POSTMAN before integrating with angular.
 
 Screenshots added in the attachement.
